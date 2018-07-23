@@ -5,7 +5,7 @@ class FixDebugBox
    private int width;
    private int length;
    private int height;
-   void FixFixDebugBox()
+   FixDebugBox()
    {
       length = 1;
       width = 1;
